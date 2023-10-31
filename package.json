@@ -1,0 +1,23 @@
+{
+  "name": "taxiappserver",
+  "version": "1.0.0",
+  "description": "Project TaxiApp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinhly123/TaxiAppServer.git"
+  },
+  "author": "Vinh Ly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinhly123/TaxiAppServer/issues"
+  },
+  "homepage": "https://github.com/vinhly123/TaxiAppServer#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
